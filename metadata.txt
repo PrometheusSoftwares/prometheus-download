@@ -1,0 +1,7 @@
+Product: Prometheus
+Version: 3.15.1
+Platform: Windows amd64
+Archive: prometheus-3.15.1-windows-amd64-original.zip
+Archive size: 114713365 bytes
+SHA-256: BA25B5E590520CB9FB028EDEF99BDC8523244D2D489B8C629E0D453D94FB030B
+Delivery: PrometheusSoftwares GitHub Release
